@@ -7,7 +7,7 @@ If interested visit the URI for the problem at LeetCode.
 Take your time and develop a solution.
 If interested in my approach please read the following post in my blog:
 
-<T.B.D.>
+https://www.johncanessa.com/2020/12/17/balanced-binary-tree-in-java/
 
 Keep on reading and experimenting.
 It is the best way to learn.
